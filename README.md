@@ -1,6 +1,7 @@
 # JCBDAAH-006_Beta
 # Hotel Reservation Cancellation Analysis
 ### Nama Anggota:
+#### - Dirgantara Putra Johan Syah
 #### - Gishella Erdyaning
 > Final Project — Business & Data Analyst Bootcamp
 
