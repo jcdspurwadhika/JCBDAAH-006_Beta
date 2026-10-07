@@ -1,6 +1,7 @@
 # JCBDAAH-006_Beta
 # Hotel Reservation Cancellation Analysis
-
+### Nama Anggota:
+#### - Gishella Erdyaning
 > Final Project — Business & Data Analyst Bootcamp
 
 Project ini dibuat untuk menganalisis pola pembatalan reservasi pada **City Hotel** dan **Resort Hotel**. Fokus utamanya adalah mencari tahu booking seperti apa yang lebih sering dibatalkan, seberapa besar nilai reservasi yang terdampak, dan rekomendasi apa yang bisa diberikan dari hasil analisis.
